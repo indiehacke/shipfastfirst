@@ -1,0 +1,183 @@
+{
+  "Hero": {
+    "title": "Nemt at udtrække Zillow data med vores kraftfulde scraper",
+    "description": "Vores Zillow Scraper er dit hemmelige våben til øjeblikkelig indsamling af ejendomsoplysninger. Med kun ét klik, eksporter omfattende data til Excel, der muliggør hurtig ejendomsanalyse. Sig farvel til kedelig dataindtastning og hej til informeret beslutningstagning!",
+    "getButton": "Streamline din ejendomsundersøgelse nu",
+    "imageAlt": "Zillow Scraper omdanner komplekse webdata til et pænt organiseret Excel-regneark"
+  },
+  "Problem": {
+    "title": "Real Estate Pros: Unlock Zillow's Hidden Data Treasure med vores Zillow Scraper!",
+    "description": "Frustreret med Zillow's data labyrint? Vores Zillow Scraper er din nøgle til øjeblikkelig, organiseret ejendomsindsigt. Transformere kaotiske Zillow-lister til håndterbare Excel-regneark med kun et klik. Det er tid til at overbelaste din ejendomsanalyse med Zillow Scraper og efterlade manuel dataindtastning i støvet!",
+    "step1": "Vælg din Zillow Target Listings til Zillow Scraper",
+    "step2": "Se Zillow Scraper indsamle omfattende data på sekunder",
+    "step3": "Eksportere en rigdom af Zillow ejendomsoplysninger til Excel",
+    "whatIs": {
+      "title": "Hvad er vores Zillow Scraper?",
+      "description": "Vores Zillow Scraper er din ultimative Zillow dataudvinding allierede, designet til fast ejendom fagfolk drukner i Zillow's hav af information. Sig farvel til kopi-paste mareridt og hej til øjeblikkelig, organiseret Zillow ejendomsdata!"
+    },
+    "howWorks": {
+      "title": "Hvordan arbejder vores Zillow Scraper sin magi?",
+      "description": "Du skal blot indtaste dine Zillow-søgekriterier, og se, hvordan vores Zillow Scraper øjeblikkeligt samler en skattekasse af Zillow-egenskabsdata. Fra grundlæggende detaljer til avancerede Zillow-målinger eksporteres alt til Excel på få sekunder, klar til din ekspertanalyse."
+    },
+    "benefits": {
+      "title": "Hvorfor fast ejendom fagfolk er rasende om vores Zillow Scraper",
+      "emotional": {
+        "title": "Oplev glæden ved Effortless Zillow Data Collection",
+        "items": [
+          "Forvandl timer med Zillow-browsing til en en-klik Zillow Scraper-løsning",
+          "Gendannelse af tid til klientmøder og ejendomsture med Zillow Scraper",
+          "Føl dig styrket med altid opdaterede Zillow-markedsoplysninger",
+          "Nyd tilfredsheden ved nem og omfattende Zillow dataindsamling"
+        ]
+      },
+      "cognitive": {
+        "title": "Din ejendomsanalyse får et løft med omfattende Zillow-data fra vores scraper",
+        "items": [
+          "Få adgang til en bred vifte af Zillow datafelter med vores Zillow Scraper, herunder:",
+          "ZPID (Zillow Property ID) er en",
+          "Status (type og tekst)",
+          "Tid på Zillow",
+          "Pris og pris pr. Sq Ft",
+          "Tænk og tænk på Sq Ft",
+          "Rent værdifuld",
+          "Område og størrelse",
+          "Soveværelser og badeværelser",
+          "Fuld adresse (gaden, byen, staten, zipkoden)",
+          "Latitude og Longitude",
+          "Brokers navn",
+          "Zillow ejerskab Status",
+          "Salgshistorik (salgsdato og pris)",
+          "Listen over URL og billede",
+          "Agent detaljer",
+          "Seneste prisændringer",
+          "Dage på Zillow",
+          "Se og gem tal"
+        ]
+      }
+    },
+    "future": {
+      "title": "Fremtiden for Zillow Data Extraction med vores Zillow Scraper",
+      "description": "Vores Zillow Scraper udvikler sig til at opfylde dine stadigt skiftende Zillow data behov:",
+      "items": [
+        "Tilpasselige Zillow-datafelter, der passer til dine specifikke krav",
+        "Løs integration af Zillow Scraper med populære CRM og analyseværktøjer",
+        "Udvidelse af Zillow Scraper til at dække yderligere ejendomsplatforme",
+        "Avanceret filtrering til laserfokuseret Zillow dataindsamling",
+        "AI-drevet Zillow markedstrendindsigt fra dine indsamlede data"
+      ]
+    },
+    "ethical": {
+      "title": "Ansvarlig Zillow Data Indsamling for Real Estate Succes",
+      "description": "Vores Zillow Scraper overholder de højeste etiske standarder:",
+      "items": [
+        "Fuld overensstemmelse af Zillow Scraper med Zillows servicevilkår og datapolitikker",
+        "Højeste respekt for Zillow ejendomsnotering og ejerens privatliv",
+        "Regelmæssige opdateringer for at sikre nøjagtig og pålidelig Zillow dataudvinding",
+        "Robuste sikkerhedsforanstaltninger til beskyttelse af dine Zillow Scraper data og privatliv"
+      ]
+    },
+    "conclusion": {
+      "title": "Revolutionér din ejendomsanalyse i dag med vores Zillow Scraper!",
+      "description": "Vores Zillow Scraper eksporterer et væld af Zillow-oplysninger, herunder ZPID, status, pris, Zestimate, ejendomsoplysninger, placeringsdata og meget mere - alt ordentligt organiseret i Excel."
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Nogle oversatte tekster"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Espaol",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Læs mere om Zillow's Data Goldmine!",
+    "subtitle": "60 dages pengene tilbage garanti. Prøv vores Zillow Scraper risikofri!",
+    "promotion": "40% rabat for de første 100 ejendomsmægler! (Kun 19 pladser tilbage)",
+    "popular": "Mest populære",
+    "currency": "af USD",
+    "paymentType": "Fleksibelt abonnement. Afbestil når som helst."
+  },
+  "FAQ": {
+    "title": "FAQ er",
+    "subtitle": "Unlock The Power of Zillow Data: Din Real Estate Analysis Supercharger!",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "Hvad er Zillow Scraper og hvordan kan det revolutionere min ejendomsanalyse?",
+    "whatIsZillowScraperAnswer": "Zillow Scraper er din ultimative løsning til nem Zillow dataudvinding. Det er et kraftfuldt værktøj designet til at løse smertepunkterne hos ejendomsmæssige fagfolk, der kæmper med Zillow's enorme data. Med kun ét klik eksporterer det omfattende ejendomsoplysninger til Excel, hvilket giver mulighed for hurtig og nøjagtig ejendomsanalyse. Sig farvel til manuel dataindtastning og hej til data-drevet succes med Zillow Scraper!",
+    "howDoesZillowScraperWork": "Hvordan forvandler Zillow Scraper Zillow's data labyrint til handlingsbar indsigt?",
+    "howDoesZillowScraperWorkAnswer": "Zillow Scraper arbejder sin magi ved at automatisere hele dataindsamlingsprocessen. Indtast blot dine søgekriterier, og se, hvordan den navigerer Zillow's komplekse lister, udtrækker værdifulde datapunkter. Inden for få sekunder har du et pænt organiseret Excel-regneark fyldt med omfattende ejendomsoplysninger. Denne øjeblikkelige dataindsamling giver dig mulighed for at fokusere på, hvad der virkelig betyder noget - analysere markedstendenser og træffe informerede beslutninger om fast ejendom.",
+    "whoIsZillowScraperFor": "Hvem kan drage fordel af Zillow Scraper's dataudvinding prowess?",
+    "whoIsZillowScraperForAnswer": "Zillow Scraper er en game-changer for alle i ejendomsbranchen kæmper med Zillow data overbelastning. Det er perfekt til: 1) ejendomsmægler træt af manuel dataindtastning, 2) ejendom investorer søger effektiv markedsanalyse, 3) ejendom analytikere drukner i Zillow's hav af information.",
+    "isZillowScraperDifficult": "Er brugen af Zillow Scraper så kompleks som at navigere Zillows endeløse lister?",
+    "isZillowScraperDifficultAnswer": "Ikke i det hele taget! Vi har designet Zillow Scraper til at være utroligt brugervenlig. Hvis du kan bruge Zillow, kan du mestre vores værktøj på få minutter. Ingen teknisk ekspertise kræves - bare indtast dine søgekriterier, klik på en knap, og lad Zillow Scraper gøre den tunge løftning. Det er så simpelt, du vil undre dig over, hvordan du nogensinde har formået uden det. Fokus på at analysere dataene, ikke indsamle det!",
+    "howEffectiveIsZillowScraper": "Kan Zillow Scraper virkelig transformere min ejendomsanalyseproces?",
+    "howEffectiveIsZillowScraperAnswer": "Absolut! Zillow Scraper er en ægte game-changer til fast ejendom fagfolk. Brugere rapporterer dramatiske tidsbesparelser, forbedret markedsindsigt og et betydeligt boost i deres evne til at spore ejendomstrends. Ved at automatisere dataindsamling fra Zillow frigør det dig for at fokusere på opgaver med høj værdi som klientinteraktioner og deal-making. Med Zillow Scraper vil du gå fra dataoverbelastning til data-drevne beslutninger på ingen tid!",
+    "whatDataDoesItExtract": "Hvilke specifikke data kan jeg forvente at få fra Zillow Scraper?",
+    "whatDataDoesItExtractAnswer": "Zillow Scraper udvinder et omfattende sæt datapunkter, herunder: ZPID, status type og tekst, tid på Zillow, pris, pris pr. kvadratmeter, Zestimate, Zestimate pr. kvadratmeter, leje Zestimate, område, lot størrelse, soveværelser, badeværelser, fuld adresse (gade, by, stat, zipcode), bredde, længde, mæglernavn, Zillow ejerskab status, salgshistorie, liste URL, ejendom billede, agent detaljer, seneste prisændringer, dage på Zillow, visning tælle, og gemme tælle.",
+    "privacyMeasures": "Hvordan beskytter Zillow Scraper mine værdifulde ejendomsdata?",
+    "privacyMeasuresAnswer": "Vi tager din datasikkerhed alvorligt. The Zillow Scraper bruger avanceret kryptering til at beskytte dine søgekriterier og udvundne data. Dine oplysninger behandles øjeblikkeligt og opbevares aldrig på lang sigt. Vi er forpligtet til at styrke din ejendomsanalyse, mens du opretholder den maksimale fortrolighed af dine ejendomsstrategier. Vær sikker, din data rejse med Zillow Scraper er sikker og privat.",
+    "howToGetStarted": "Hvordan begynder jeg at bruge Zillow Scraper til at overbelaste min ejendomsanalyse?",
+    "howToGetStartedAnswer": "At komme i gang med Zillow Scraper er en brise! Bare besøg vores hjemmeside, tilmelde dig en konto, vælg en plan, der passer til dine data behov, og du er klar til at gå. Inden for få minutter, vil du udvinde værdifulde Zillow data som en pro. Vi tilbyder en hurtig tutorial til at få dig op til hastighed, og for fast ejendom teams eller virksomheder, vi har specielle pakker til at maksimere Zillow Scraper's indvirkning på tværs af hele din organisation.",
+    "supportAvailable": "Hvilken type support er tilgængelig for Zillow Scraper brugere?",
+    "supportAvailableAnswer": "Vi tilbyder omfattende support for at sikre, at du får mest muligt ud af Zillow Scraper. Vores responsive team giver 24/7 e-mail support, hurtig live chat assistance og en omfattende videnbase. For vores VIP-brugere tilbyder vi dedikeret support fra vores dataeksperter. Uanset om du har et hurtigt spørgsmål eller har brug for dybdegående vejledning, er vi her for at sikre, at din Zillow Scraper-oplevelse er glat og produktiv.",
+    "refundPolicy": "Hvad hvis Zillow Scraper ikke opfylder mine behov for ejendomsanalyse?",
+    "refundPolicyAnswer": "Vi er overbeviste om, at Zillow Scraper vil revolutionere din ejendomsanalyseproces. Men vi tilbyder en 60-dages \"Data Satisfaction Guarantee\". Hvis du finder ud af, at vores værktøj ikke forbedrer din evne til at analysere Zillow data og spot ejendomsmuligheder, vil vi give en fuld refusion. Vi mener, at når du oplever kraften i ubesværet Zillow dataudvinding, vil du undre dig over, hvordan du nogensinde har formået uden Zillow Scraper!"
+  }
+}

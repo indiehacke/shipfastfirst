@@ -1,0 +1,184 @@
+{
+  "Hero": {
+    "title": "使用我們強大的爬蟲工具輕鬆提取 Zillow 數據",
+    "description": "房地產專業人士，是否厭倦了手動收集 Zillow 數據？我們的 Zillow 爬蟲工具是您即時收集房產信息的秘密武器。只需一鍵點擊，即可將全面的數據導出到 Excel，實現快速的房產分析。告別繁瑣的數據輸入，迎接明智的決策！",
+    "getButton": "立即簡化您的房產研究",
+    "imageAlt": "Zillow 爬蟲工具將複雜的網絡數據轉化為整潔有序的 Excel 電子表格"
+  },
+  "Problem": {
+    "title": "房地產專業人士：使用我們的 Zillow 爬蟲工具解鎖 Zillow 的隱藏數據寶藏！",
+    "description": "對 Zillow 的數據迷宮感到沮喪？我們的 Zillow 爬蟲工具是您獲得即時、有組織的房產洞察的關鍵。只需一鍵點擊，即可將混亂的 Zillow 列表轉化為可操作的 Excel 電子表格。是時候使用 Zillow 爬蟲工具來增強您的房產分析，將手動數據輸入拋在腦後了！",
+    "step1": "為 Zillow 爬蟲工具選擇您的 Zillow 目標列表",
+    "step2": "觀看 Zillow 爬蟲工具在幾秒鐘內收集全面的數據",
+    "step3": "將豐富的 Zillow 房產信息導出到 Excel",
+    "whatIs": {
+      "title": "什麼是我們的 Zillow 爬蟲工具？",
+      "description": "我們的 Zillow 爬蟲工具是您最終的 Zillow 數據提取盟友，專為在 Zillow 信息海洋中掙扎的房地產專業人士設計。告別複製粘貼的噩夢，迎接即時、有組織的 Zillow 房產數據！"
+    },
+    "howWorks": {
+      "title": "我們的 Zillow 爬蟲工具如何發揮魔力？",
+      "description": "只需輸入您的 Zillow 搜索條件，然後觀看我們的 Zillow 爬蟲工具如何即時編譯大量的 Zillow 房產數據。從基本細節到高級 Zillow 指標，所有內容都會在幾秒鐘內導出到 Excel，為您的專業分析做好準備。"
+    },
+    "benefits": {
+      "title": "為什麼房地產專業人士對我們的 Zillow 爬蟲工具讚不絕口",
+      "emotional": {
+        "title": "體驗輕鬆收集 Zillow 數據的樂趣",
+        "items": [
+          "將數小時的 Zillow 瀏覽轉變為一鍵式 Zillow 爬蟲解決方案",
+          "使用 Zillow 爬蟲工具為客戶會議和房產參觀騰出時間",
+          "隨時掌握最新的 Zillow 市場信息，感受充滿力量",
+          "享受輕鬆、全面收集 Zillow 數據的滿足感"
+        ]
+      },
+      "cognitive": {
+        "title": "您的房產分析因我們爬蟲工具提供的全面 Zillow 數據而得到提升",
+        "items": [
+          "使用我們的 Zillow 爬蟲工具訪問廣泛的 Zillow 數據字段，包括：",
+          
+          "ZPID（Zillow 房產 ID）",
+          "狀態（類型和文本）",
+          "在 Zillow 上的時間",
+          "價格和每平方英尺價格",
+          "Zestimate 和每平方英尺 Zestimate",
+          "租金 Zestimate",
+          "面積和地塊大小",
+          "臥室和浴室數量",
+          "完整地址（街道、城市、州、郵政編碼）",
+          "緯度和經度",
+          "經紀人姓名",
+          "Zillow 所有權狀態",
+          "銷售歷史（售出日期和價格）",
+          "列表 URL 和圖片",
+          "代理詳情",
+          "最近價格變化",
+          "在 Zillow 上的天數",
+          "查看和保存次數"
+        ]
+      }
+    },
+    "future": {
+      "title": "使用我們的 Zillow 爬蟲工具實現 Zillow 數據提取的未來",
+      "description": "我們的 Zillow 爬蟲工具正在不斷發展，以滿足您不斷變化的 Zillow 數據需求：",
+      "items": [
+        "可自定義的 Zillow 數據字段，以匹配您的特定要求",
+        "Zillow 爬蟲工具與流行的 CRM 和分析工具無縫集成",
+        "擴展 Zillow 爬蟲工具以覆蓋其他房地產平台",
+        "高級過濾功能，實現精準的 Zillow 數據收集",
+        "從您收集的數據中獲得 AI 驅動的 Zillow 市場趨勢洞察"
+      ]
+    },
+    "ethical": {
+      "title": "負責任的 Zillow 數據收集，助力房地產成功",
+      "description": "我們的 Zillow 爬蟲工具遵循最高的道德標準：",
+      "items": [
+        "Zillow 爬蟲工具完全遵守 Zillow 的服務條款和數據政策",
+        "最大程度尊重 Zillow 房產列表和所有者隱私",
+        "定期更新以確保準確可靠的 Zillow 數據提取",
+        "強大的安全措施保護您的 Zillow 爬蟲工具數據和隱私"
+      ]
+    },
+    "conclusion": {
+      "title": "立即使用我們的 Zillow 爬蟲工具革新您的房產分析！",
+      "description": "不要讓 Zillow 的數據過載阻礙您。我們的 Zillow 爬蟲工具導出豐富的 Zillow 信息，包括 ZPID、狀態、價格、Zestimate、房產詳情、位置數據等 – 所有內容都整齊地組織在 Excel 中。擁抱更快的 Zillow 市場分析、明智的決策和蓬勃發展的房地產事業，讓結構化、全面的 Zillow 房產數據盡在您的掌握之中！"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "一些翻譯後的文本"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "英語",
+      "de": "德語",
+      "fr": "法語",
+      "es": "西班牙語",
+      "it": "意大利語",
+      "pt": "葡萄牙語",
+      "nl": "荷蘭語",
+      "pl": "波蘭語",
+      "ru": "俄語",
+      "ja": "日語",
+      "ko": "韓語",
+      "zh": "中文",
+      "ar": "阿拉伯語",
+      "hi": "印地語",
+      "tr": "土耳其語",
+      "sv": "瑞典語",
+      "da": "丹麥語",
+      "fi": "芬蘭語"
+    }
+  },
+  "Pricing": {
+    "title": "解鎖 Zillow 的數據金礦！",
+    "subtitle": "60 天退款保證。無風險試用我們的 Zillow 爬蟲工具！",
+    "promotion": "🏠 前 100 名房地產專業人士可享受 40% 折扣！（僅剩 19 個名額）",
+    "popular": "最受歡迎",
+    "currency": "美元",
+    "paymentType": "靈活訂閱。隨時取消。"
+  },
+  "FAQ": {
+    "title": "常見問題",
+    "subtitle": "釋放 Zillow 數據的力量：您的房地產分析超級充電器！",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "什麼是 Zillow 爬蟲工具，它如何革新我的房產分析？",
+    "whatIsZillowScraperAnswer": "Zillow 爬蟲工具是您輕鬆提取 Zillow 數據的終極解決方案。它是一個強大的工具，專為解決房地產專業人士在處理 Zillow 龐大數據時遇到的痛點而設計。只需一鍵點擊，它就能將全面的房產信息導出到 Excel，實現快速準確的房產分析。告別手動數據輸入，迎接數據驅動的成功，盡在 Zillow 爬蟲工具！",
+    "howDoesZillowScraperWork": "Zillow 爬蟲工具如何將 Zillow 的數據迷宮轉化為可操作的洞察？",
+    "howDoesZillowScraperWorkAnswer": "Zillow 爬蟲工具通過自動化整個數據收集過程來發揮魔力。只需輸入您的搜索條件，然後觀看它如何導航 Zillow 的複雜列表，提取有價值的數據點。在幾秒鐘內，您就會得到一個整潔有序的 Excel 電子表格，其中填滿了全面的房產信息。這種即時的數據編譯讓您能夠專注於真正重要的事情 - 分析市場趨勢並做出明智的房地產決策。",
+    "whoIsZillowScraperFor": "誰能從 Zillow 爬蟲工具的數據提取能力中受益？",
+    "whoIsZillowScraperForAnswer": "Zillow 爬蟲工具對於任何在房地產行業中為 Zillow 數據過載而苦惱的人來說都是一個遊戲改變者。它非常適合：1）厭倦手動數據輸入的房地產經紀人，2）尋求高效市場分析的房產投資者，3）在 Zillow 信息海洋中掙扎的房地產分析師。如果您曾經因 Zillow 的數據迷宮而感到沮喪，Zillow 爬蟲工具就是您輕鬆獲取房產洞察的關鍵。",
+    "isZillowScraperDifficult": "使用 Zillow 爬蟲工具是否像瀏覽 Zillow 的無盡列表一樣複雜？",
+    "isZillowScraperDifficultAnswer": "完全不是！我們設計的 Zillow 爬蟲工具非常用戶友好。如果您會使用 Zillow，您就能在幾分鐘內掌握我們的工具。無需技術專業知識 - 只需輸入您的搜索條件，點擊一個按鈕，讓 Zillow 爬蟲工具完成繁重的工作。它如此簡單，您會想知道沒有它之前是如何管理的。專注於分析數據，而不是收集數據！",
+    "howEffectiveIsZillowScraper": "Zillow 爬蟲工具真的能改變我的房產分析過程嗎？",
+    "howEffectiveIsZillowScraperAnswer": "絕對可以！Zillow 爬蟲工具對房地產專業人士來說是一個真正的遊戲改變者。用戶報告顯示，它能顯著節省時間，增強市場洞察力，並大大提高他們發現房產趨勢的能力。通過自動化從 Zillow 收集數據的過程，它讓您能夠專注於高價值任務，如客戶互動和交易談判。有了 Zillow 爬蟲工具，您將從數據過載迅速轉變為數據驅動的決策！",
+    "whatDataDoesItExtract": "我可以從 Zillow 爬蟲工具中獲得哪些具體數據？",
+    "whatDataDoesItExtractAnswer": "Zillow 爬蟲工具提取全面的數據點，包括：ZPID、狀態類型和文本、在 Zillow 上的時間、價格、每平方英尺價格、Zestimate、每平方英尺 Zestimate、租金 Zestimate、面積、地塊大小、臥室、浴室、完整地址（街道、城市、州、郵政編碼）、緯度、經度、經紀人姓名、Zillow 所有權狀態、銷售歷史、列表 URL、房產圖片、代理詳情、最近價格變化、在 Zillow 上的天數、查看次數和保存次數。這些豐富的信息使您能夠進行全面的房產分析，並自信地做出數據驅動的決策。",
+    "privacyMeasures": "Zillow 爬蟲工具如何保護我的寶貴房地產數據？",
+    "privacyMeasuresAnswer": "我們非常重視您的數據安全。Zillow 爬蟲工具使用先進的加密技術來保護您的搜索條件和提取的數據。您的信息會立即處理，絕不長期存儲。我們致力於增強您的房產分析能力，同時保持您房地產策略的最高機密性。請放心，您與 Zillow 爬蟲工具的數據之旅是安全和私密的。",
+    "howToGetStarted": "我如何開始使用 Zillow 爬蟲工具來增強我的房產分析？",
+    "howToGetStartedAnswer": "開始使用 Zillow 爬蟲工具非常簡單！只需訪問我們的網站，註冊一個帳戶，選擇適合您數據需求的計劃，您就可以開始了。在幾分鐘內，您就能像專業人士一樣提取有價值的 Zillow 數據。我們提供快速教程幫助您入門，對於房地產團隊或公司，我們有特別的套餐，可以最大化 Zillow 爬蟲工具在整個組織中的影響力。",
+    "supportAvailable": "Zillow 爬蟲工具用戶可以獲得什麼樣的支持？",
+    "supportAvailableAnswer": "我們提供全面的支持，確保您能充分利用 Zillow 爬蟲工具。我們反應迅速的團隊提供 24/7 電子郵件支持、快速的在線聊天協助和廣泛的知識庫。對於我們的 VIP 用戶，我們提供來自數據專家的專屬支持。無論您有快速問題還是需要深入指導，我們都在這裡確保您的 Zillow 爬蟲工具體驗順暢且富有成效。",
+    "refundPolicy": "如果 Zillow 爬蟲工具不能滿足我的房產分析需求怎麼辦？",
+    "refundPolicyAnswer": "我們相信 Zillow 爬蟲工具將徹底改變您的房產分析過程。然而，我們提供 60 天的「數據滿意保證」。如果您發現我們的工具沒有增強您分析 Zillow 數據和發現房地產機會的能力，我們將提供全額退款。我們相信，一旦您體驗到輕鬆提取 Zillow 數據的力量，您會想知道沒有 Zillow 爬蟲工具之前是如何管理的！"
+  }
+}

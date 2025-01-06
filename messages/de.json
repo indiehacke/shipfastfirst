@@ -1,0 +1,183 @@
+{
+  "Hero": {
+    "title": "Mühelos Zillow-Daten mit unserem leistungsstarken Scraper extrahieren",
+    "description": "Immobilienprofis, müde von der manuellen Erhebung von Zillow-Daten? Unser Zillow-Scraper ist Ihre geheime Waffe für die sofortige Erhebung von Immobilieninformationen. Mit nur einem Klick exportieren Sie umfassende Daten in Excel, was eine schnelle Eigentumsanalyse ermöglicht. Sagen Sie Abschied von langweiligen Dateneingaben und grüßen Sie informierte Entscheidungsfindung!",
+    "getButton": "Streamline Ihre Immobilienforschung jetzt",
+    "imageAlt": "Zillow Scraper verwandelt komplexe Webdaten in ein ordentlich organisiertes Excel-Arbeitsblatt"
+  },
+  "Problem": {
+    "title": "Immobilienvorteile: Entsperren Sie Zillow's Hidden Data Treasure mit unserem Zillow Scraper!",
+    "description": "Frustriert von Zillows Datenlabyrinth? Unser Zillow Scraper ist Ihr Schlüssel zu sofortigen, organisierten Eigentumseinblicken. Verwandeln Sie chaotische Zillow-Listen in handliche Excel-Tabellenblätter mit nur einem Klick. Es ist Zeit, Ihre Eigentumsanalyse mit dem Zillow Scraper zu überladen und den manuellen Dateneingang in den Staub zu lassen!",
+    "step1": "Wählen Sie Ihre Zillow Target-Listen für den Zillow Scraper",
+    "step2": "Sehen Sie, wie der Zillow Scraper umfassende Daten in Sekunden sammelt",
+    "step3": "Exportieren eines Reichtums von Zillow-Eigenschaftsinformationen in Excel",
+    "whatIs": {
+      "title": "Was ist unser Zillow Scraper?",
+      "description": "Unser Zillow Scraper ist Ihr ultimativer Zillow-Daten-Extraktions-Verbündeter, für Immobilien-Profis, die in Zillow's Meer von Informationen ertrinken, entworfen."
+    },
+    "howWorks": {
+      "title": "Wie funktioniert unser Zillow Scraper seine Magie?",
+      "description": "Geben Sie einfach Ihre Zillow-Suchkriterien ein und beobachten Sie, wie unser Zillow Scraper sofort einen Schatz von Zillow-Eigentumsdaten zusammenstellt.Von grundlegenden Details bis hin zu fortgeschrittenen Zillow-Metriken wird alles in Sekunden nach Excel exportiert, bereit für Ihre Expertenanalyse."
+    },
+    "benefits": {
+      "title": "Warum Immobilienprofis über unseren Zillow Scraper wütend sind",
+      "emotional": {
+        "title": "Erleben Sie die Freude an Effortless Zillow Data Collection",
+        "items": [
+          "Verwandeln Sie Stunden Zillow-Browsing in eine Zillow Scraper-Lösung mit einem Klick",
+          "Reclaim Zeit für Kundentreffen und Immobilientouren mit dem Zillow Scraper",
+          "Fühlen Sie sich mit immer aktuellen Zillow Marktinformationen befähigt",
+          "Genießen Sie die Zufriedenheit der mühelosen, umfassenden Zillow-Datenerfassung"
+        ]
+      },
+      "cognitive": {
+        "title": "Ihre Immobilienanalyse erhöht sich mit umfassenden Zillow-Daten von unserem Scraper",
+        "items": [
+          "Zugriff auf eine breite Palette von Zillow-Datenfeldern mit unserem Zillow Scraper, einschließlich:",
+          "Die ZPID (Zillow Property ID)",
+          "Status (Typ und Text)",
+          "Zeit für Zillow",
+          "Preis und Preis pro Sq Ft",
+          "Zestimate und Zestimate per Sq Ft",
+          "Reine Wertschätzung",
+          "Fläche und große Größe",
+          "Schlafzimmer und Bäder",
+          "Vollständige Adresse (Street, Stadt, Staat, Zipcode)",
+          "Latitude und Longitude",
+          "Broker Name",
+          "Zillow Eigentumsstatus",
+          "Verkaufshistorie (Verkaufsdatum und Preis)",
+          "Liste von URL und Bild",
+          "Agent Details",
+          "Die jüngsten Preisänderungen",
+          "Tage auf Zillow",
+          "Zählen ansehen und speichern"
+        ]
+      }
+    },
+    "future": {
+      "title": "Die Zukunft der Zillow Data Extraction mit unserem Zillow Scraper",
+      "description": "Unser Zillow Scraper entwickelt sich, um Ihren sich ständig verändernden Zillow-Datenbedürfnissen gerecht zu werden:",
+      "items": [
+        "Anpassbare Zillow-Datenfelder, die Ihren spezifischen Anforderungen entsprechen",
+        "Nahtlose Integration von Zillow Scraper mit populären CRM- und Analysetools",
+        "Erweiterung von Zillow Scraper für zusätzliche Immobilienplattformen",
+        "Erweiterte Filterung für laserorientierte Zillow-Datenerfassung",
+        "Intelligente Markttrends von Zillow aus Ihren gesammelten Daten"
+      ]
+    },
+    "ethical": {
+      "title": "Verantwortungsvolle Zillow-Datenerfassung für Immobilienerfolg",
+      "description": "Unser Zillow Scraper hält sich an die höchsten ethischen Standards:",
+      "items": [
+        "Vollständige Übereinstimmung von Zillow Scraper mit den Nutzungsbedingungen und Datenrichtlinien von Zillow",
+        "Höchster Respekt für die Zillow Immobilienliste und die Privatsphäre des Eigentümers",
+        "Regelmäßige Updates, um eine genaue und zuverlässige Zillow-Datenerfassung zu gewährleisten",
+        "Robuste Sicherheitsmaßnahmen zum Schutz Ihrer Zillow Scraper Daten und Privatsphäre"
+      ]
+    },
+    "conclusion": {
+      "title": "Revolutionieren Sie Ihre Immobilienanalyse heute mit unserem Zillow Scraper!",
+      "description": "Unser Zillow Scraper exportiert eine Fülle von Zillow-Informationen, einschließlich ZPID, Status, Preis, Zestimate, Immobiliendetails, Standortdaten und mehr – alles ordentlich in Excel organisiert."
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Einige übersetzte Texte"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Espaol",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Unlock Zillow’s Data Goldmine!",
+    "subtitle": "60 Tage Geld-zurück-Garantie. Versuchen Sie unsere Zillow Scraper risikofrei!",
+    "promotion": "40% Rabatt für die ersten 100 Immobilienprofis! (Nur 19 Plätze übrig)",
+    "popular": "Am beliebtesten",
+    "currency": "USD zu",
+    "paymentType": "Flexibel abonnieren und jederzeit kündigen."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "subtitle": "Entfernen Sie die Macht von Zillow Daten: Ihre Immobilienanalyse Supercharger!",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "Was ist der Zillow Scraper und wie kann er meine Immobilienanalyse revolutionieren?",
+    "whatIsZillowScraperAnswer": "Der Zillow Scraper ist Ihre ultimative Lösung für die mühelose Zillow-Daten-Extraktion. Es ist ein leistungsfähiges Werkzeug, das entwickelt wurde, um die Schmerzpunkte von Immobilienfachleuten anzugehen, die mit den riesigen Daten von Zillow kämpfen. Mit nur einem Klick exportiert es umfassende Eigentumsinformationen nach Excel, wodurch eine schnelle und genaue Eigentumsanalyse möglich ist.",
+    "howDoesZillowScraperWork": "Wie verwandelt der Zillow Scraper das Datenlabyrinth von Zillow in handlungsfähige Erkenntnisse?",
+    "howDoesZillowScraperWorkAnswer": "Der Zillow Scraper arbeitet seine Magie, indem er den gesamten Datenerhebungsprozess automatisiert. Geben Sie einfach Ihre Suchkriterien ein und beobachten Sie, wie er die komplexen Listen von Zillow navigiert und wertvolle Datenpunkte extrahiert. Innerhalb von Sekunden haben Sie eine ordentlich organisierte Excel-Tabelle mit umfassenden Eigentumsinformationen gefüllt. Diese sofortige Datenerstellung ermöglicht es Ihnen, sich auf das zu konzentrieren, was wirklich zählt - Markttrends zu analysieren und fundierte Immobilienentscheidungen zu treffen.",
+    "whoIsZillowScraperFor": "Wer kann von der Daten-Extraktionsfähigkeit von Zillow Scraper profitieren?",
+    "whoIsZillowScraperForAnswer": "Der Zillow Scraper ist ein Game-Changer für alle in der Immobilienbranche, die mit Zillow-Datenüberlastung zu kämpfen haben. Es ist perfekt für: 1) Immobilienmakler, die müde von manuellem Dateneingang sind, 2) Immobilieninvestoren, die eine effiziente Marktanalyse suchen, 3) Immobilienanalysten, die in Zillows Meer von Informationen ertrinken.",
+    "isZillowScraperDifficult": "Ist die Verwendung von Zillow Scraper so komplex wie das Navigieren in den endlosen Listen von Zillow?",
+    "isZillowScraperDifficultAnswer": "Wir haben den Zillow Scraper so konzipiert, dass er unglaublich benutzerfreundlich ist. Wenn Sie Zillow verwenden können, können Sie unser Tool in wenigen Minuten beherrschen. Keine technische Expertise erforderlich - geben Sie einfach Ihre Suchkriterien ein, klicken Sie auf einen Knopf und lassen Sie den Zillow Scraper das schwere Heben tun. Es ist so einfach, Sie werden sich fragen, wie Sie es jemals ohne es geschafft haben. Konzentrieren Sie sich auf die Analyse der Daten, nicht auf das Sammeln!",
+    "howEffectiveIsZillowScraper": "Kann der Zillow Scraper meinen Property-Analyse-Prozess wirklich verändern?",
+    "howEffectiveIsZillowScraperAnswer": "Absolut! Der Zillow Scraper ist ein echter Game-Changer für Immobilien-Profis. Benutzer berichten über dramatische Zeitersparnisse, verbesserte Marktkenntnisse und eine signifikante Steigerung ihrer Fähigkeit, Immobilientrends zu erkennen. Durch die automatisierte Datenerfassung von Zillow befreit es Sie, sich auf hochwertige Aufgaben wie Kundeninteraktionen und Deal-making zu konzentrieren. Mit dem Zillow Scraper werden Sie in kürzester Zeit von Datenüberlastung zu datengesteuerten Entscheidungen gehen!",
+    "whatDataDoesItExtract": "Welche spezifischen Daten kann ich von dem Zillow Scraper erwarten?",
+    "whatDataDoesItExtractAnswer": "Der Zillow Scraper extrahiert eine umfassende Reihe von Datenpunkten, einschließlich: ZPID, Status-Typ und Text, Zeit auf Zillow, Preis, Preis pro Quadratfuß, Zestimate, Zestimate pro Quadratfuß, Miete Zestimate, Fläche, Lotgröße, Schlafzimmer, Badezimmer, volle Adresse (Straße, Stadt, Staat, Zipcode), Breite, Längsgröße, Brokername, Zillow Eigentumsstatus, Verkaufshistorie, Auflistung URL, Eigentumsbild, Agentendetails, jüngste Preisänderungen, Tage auf Zillow, Anzeige Zählen und Speichern Zählen.",
+    "privacyMeasures": "Wie schützt der Zillow Scraper meine wertvollen Immobiliendaten?",
+    "privacyMeasuresAnswer": "Wir nehmen Ihre Datensicherheit ernst. Der Zillow Scraper verwendet fortschrittliche Verschlüsselung, um Ihre Suchkriterien und extrahierte Daten zu schützen. Ihre Informationen werden sofort verarbeitet und werden nie langfristig gespeichert. Wir verpflichten uns, Ihre Immobilienanalyse zu ermächtigen und gleichzeitig die maximale Vertraulichkeit Ihrer Immobilienstrategien aufrechtzuerhalten. Seien Sie versichert, Ihre Datenreise mit dem Zillow Scraper ist sicher und privat.",
+    "howToGetStarted": "Wie kann ich mit dem Zillow Scraper beginnen, um meine Immobilienanalyse zu überladen?",
+    "howToGetStartedAnswer": "Beginnen Sie mit dem Zillow Scraper ist eine Brise! Besuchen Sie einfach unsere Website, melden Sie sich für ein Konto an, wählen Sie einen Plan, der Ihren Datenbedürfnissen entspricht, und Sie sind bereit zu gehen. Innerhalb von Minuten werden Sie wertvolle Zillow-Daten wie ein Profi extrahieren Wir bieten ein schnelles Tutorial, um Sie auf die Geschwindigkeit zu bringen, und für Immobilienteams oder Firmen haben wir spezielle Pakete, um die Auswirkungen des Zillow Scraper in Ihrer gesamten Organisation zu maximieren.",
+    "supportAvailable": "Welche Art von Support ist für Nutzer von Zillow Scraper verfügbar?",
+    "supportAvailableAnswer": "Wir bieten umfassende Unterstützung, um sicherzustellen, dass Sie das Beste aus dem Zillow Scraper bekommen. Unser reagierendes Team bietet 24/7 E-Mail-Unterstützung, schnelle Live-Chat-Unterstützung und eine umfangreiche Wissensbasis. Für unsere VIP-Benutzer bieten wir dedizierte Unterstützung von unseren Datenexperten. Ob Sie eine schnelle Frage haben oder eine eingehende Anleitung benötigen, wir sind hier, um sicherzustellen, dass Ihre Zillow Scraper-Erfahrung reibungslos und produktiv ist.",
+    "refundPolicy": "Was ist, wenn der Zillow Scraper meine Immobilienanalysebedürfnisse nicht erfüllt?",
+    "refundPolicyAnswer": "Wir sind zuversichtlich, dass der Zillow Scraper Ihren Property-Analyse-Prozess revolutionieren wird. Jedoch bieten wir eine 60-tägige \"Datenzufriedenheitsgarantie\". Wenn Sie feststellen, dass unser Tool Ihre Fähigkeit, Zillow-Daten zu analysieren und Immobilienmöglichkeiten zu finden, nicht verbessert, werden wir eine vollständige Rückerstattung bieten. Wir glauben, dass Sie, sobald Sie die Macht der mühelosen Zillow-Daten-Extraktion erfahren, sich fragen werden, wie Sie es ohne den Zillow-Scraper geschafft haben!"
+  }
+}

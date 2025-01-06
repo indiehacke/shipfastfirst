@@ -1,0 +1,183 @@
+{
+  "Hero": {
+    "title": "パワフルなスクラッパーでZillowデータを簡単に抽出",
+    "description": "不動産プロフェッショナル、Zillowデータを手動で収集することに疲れましたか? 私たちのZillow Scraperは、即座に不動産情報を収集するための秘密の武器です。たった一つのクリックで、包括的なデータをExcelにエクスポートし、迅速な不動産分析を可能にします。退屈なデータ入力に別れを告げ、明確な意思決定にこんにちは!",
+    "getButton": "あなたの不動産調査を今すぐストリームライン",
+    "imageAlt": "Zillow Scraper 複雑な Web データをきちんと組織された Excel スケジュールに変換する"
+  },
+  "Problem": {
+    "title": "Real Estate Pros: Zillow's Hidden Data Treasure with Our Zillow Scraper!",
+    "description": "Zillowのデータの迷路に失望しましたか? 私たちの Zillow Scraperは、即時的で組織的なプロパティの洞察へのあなたの鍵です。混乱したZillowリストを1クリックで動作可能なExcelスケジュールに変換する時間です。",
+    "step1": "Zillow ScraperのZillow Target Listingsを選択する",
+    "step2": "Zillow Scraperが数秒で包括的なデータを収集する様子をご覧ください。",
+    "step3": "Zillow Property Information を Excel にエクスポートする",
+    "whatIs": {
+      "title": "Our Zillow Scraperとは?",
+      "description": "私たちのZillow Scraperは、Zillowの情報の海に溺れる不動産専門家のために設計された究極のZillowデータ抽出の同盟者です。"
+    },
+    "howWorks": {
+      "title": "私たちのZillow Scraperはどのように魔法を働くのですか?",
+      "description": "あなたのZillowの検索基準を入力し、私たちのZillow ScraperがすぐにZillowのプロパティデータの宝庫を収集するように見てください. 基本的な詳細から高度なZillowメトリクスまで、すべては数秒でExcelに輸出され、専門家の分析のために準備ができています。"
+    },
+    "benefits": {
+      "title": "なぜ不動産プロは私たちのZillow Scraperについて怒っているのか",
+      "emotional": {
+        "title": "「Zillow Data Collection」の楽しさを体験する",
+        "items": [
+          "数時間のZillowブラウジングを1クリックのZillow Scraperソリューションに変える",
+          "Zillow Scraperでクライアントミーティングや不動産ツアーの時間を回収する",
+          "常に最新のZillow市場情報で強力に感じる",
+          "シンプルで包括的な Zillow データ収集の満足感をお楽しみください"
+        ]
+      },
+      "cognitive": {
+        "title": "Your Property Analysis Gets a Boost with Comprehensive Zillow Data from Our Scraper あなたの不動産分析は、私たちのスクラッパーから包括的なZillowデータで強化されます。",
+        "items": [
+          "Zillow Scraper を使用して幅広い Zillow データフィールドにアクセスし、以下を含む:",
+          "ZPID(Zillow Property ID)",
+          "ステータス(タイプとテキスト)",
+          "時間 Zillow",
+          "価格 & 価格 per Sq Ft",
+          "Zestimate and Zestimate per Sq Ft",
+          "ふるさと評価",
+          "面積と大きさ",
+          "ベッドルーム&バスルーム",
+          "住所(街、街、州、ジップコード)",
+          "Latitude と Longitude",
+          "ブローカー名",
+          "Zillowの所有権",
+          "販売履歴(販売日および価格)",
+          "URLと画像",
+          "エージェント詳細",
+          "最近の価格変更",
+          "DAYS ON ZILLOW",
+          "View and Save カウント"
+        ]
+      }
+    },
+    "future": {
+      "title": "The Future of Zillow Data Extraction with Our Zillow Scraper の詳細情報",
+      "description": "私たちのZillow Scraperは、常に変化するZillowデータニーズを満たすために進化しています。",
+      "items": [
+        "特定の要件に合致するカスタマイズ可能な Zillow データフィールド",
+        "人気のCRMと分析ツールとのZillow Scraperのシームレスな統合",
+        "Zillow Scraperの拡張、追加の不動産プラットフォームをカバー",
+        "レーザーに焦点を当てたZillowデータ収集のための高度なフィルタリング",
+        "AI駆動のZillow市場トレンドの洞察 収集されたデータから"
+      ]
+    },
+    "ethical": {
+      "title": "不動産の成功のための責任あるZillowデータ収集",
+      "description": "私たちのZillow Scraperは、最も高い倫理的基準に従っています:",
+      "items": [
+        "Zillow Scraper の Zillow のサービス条件とデータポリシーの完全な遵守",
+        "Zillow不動産リストと所有者のプライバシーへの最大の尊重",
+        "正確かつ信頼性の高い Zillow データ抽出を確保するための定期的な更新",
+        "あなたのZillow Scraperのデータとプライバシーを保護する強力なセキュリティ対策"
+      ]
+    },
+    "conclusion": {
+      "title": "今日、Zillow Scraperであなたの不動産分析を革命!",
+      "description": "Zillow Scraperは、ZPID、状態、価格、Zestimate、不動産の詳細、位置データ、およびその他を含む豊富なZillow情報を輸出し、すべてExcelできれいに組織されています。"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "いくつかの翻訳テキスト"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Espaol",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "「Zillow's Data Goldmine」をダウンロード!",
+    "subtitle": "60日間の返金保証. リスクなしで私たちのZillow Scraperを試してください!",
+    "promotion": "ファースト100の不動産プロのための約40%割引! (残り19スペースのみ)",
+    "popular": "最も人気",
+    "currency": "ドル",
+    "paymentType": "柔軟なサブスクリプション いつでもキャンセル"
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "subtitle": "「Zillow Data: Your Real Estate Analysis Supercharger」をダウンロード!",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "Zillow Scraperとは何ですか? それは私の不動産分析をどのように革命に変えることができますか?",
+    "whatIsZillowScraperAnswer": "Zillow Scraperは、Zillowの膨大なデータと戦う不動産プロフェッショナルの痛みを解決するために設計された強力なツールです。 1 つのクリックで、Excelに包括的なプロパティ情報を輸出し、迅速かつ正確なプロパティ分析を可能にします。",
+    "howDoesZillowScraperWork": "Zillow Scraper は Zillow のデータの迷路をどのようにアクティブな洞察力に変えるのですか?",
+    "howDoesZillowScraperWorkAnswer": "Zillow Scraperは、データ収集プロセスを完全に自動化することによって魔法を働きます。単に検索基準を入力し、Zillowの複雑なリストをナビゲーションし、貴重なデータポイントを抽出するように観察してください。数秒以内に、包括的なプロパティ情報で満たされた精密に組織されたExcelスケジュールシートがあります。この即時データコンパイルは、市場のトレンドを分析し、不動産の意思決定に焦点を当てることができます。",
+    "whoIsZillowScraperFor": "誰がZillow Scraperのデータ抽出能力の恩恵を受けることができますか?",
+    "whoIsZillowScraperForAnswer": "Zillow Scraperは、Zillowのデータの過剰負荷と闘っている不動産業界の誰にでも役立つゲーム変換器です。それは: 1)手動データ入力に疲れた不動産代理店、 2)効率的な市場分析を求める不動産投資家、 3) Zillowの情報の海に溺れる不動産アナリストに最適です。",
+    "isZillowScraperDifficult": "Zillow Scraperを使用することは、Zillowの無限のリストをナビゲーションするほど複雑ですか?",
+    "isZillowScraperDifficultAnswer": "私たちはZillow Scraperを非常にユーザーフレンドリーに設計しました。もしあなたがZillowを使用できるなら、あなたは数分で私たちのツールをマスターすることができます。 必要な技術的な専門知識はありません - あなたの検索基準を入力するだけで、ボタンをクリックし、Zillow Scraperが重いリフトをするようにしてください。 それは非常にシンプルで、あなたはそれをなしにどのように管理したかを疑問に思うでしょう。 データを分析することに集中し、それを収集するのではありません!",
+    "howEffectiveIsZillowScraper": "Zillow Scraperは本当に私の不動産分析プロセスを変えることができますか?",
+    "howEffectiveIsZillowScraperAnswer": "絶対に! Zillow Scraperは、不動産専門家のための真のゲーム変換器です。ユーザーは劇的な時間の節約、市場の洞察力の向上、および不動産トレンドを検出する能力の大幅な増加を報告します。 Zillowからのデータ収集を自動化することで、お客様の相互作用や取引を作成などの高価値のタスクに焦点を当てることが自由になります。",
+    "whatDataDoesItExtract": "Zillow Scraperからどのような具体的なデータを得ることができますか?",
+    "whatDataDoesItExtractAnswer": "Zillow Scraperは、ZPID、ステータスタイプとテキスト、Zillowの時間、価格、平方フィートあたりの価格、Zestimate、Zestimate、レンタルZestimate、エリア、ロットサイズ、寝室、バスルーム、完全なアドレス(ストリート、都市、州、ジップコード)、緯度、長さ、ブローカー名、Zillowの所有状態、販売履歴、URLリスト、不動産イメージ、エージェントの詳細、最近の価格変更、Zillowの日、ビューカウント、および保存カウント。",
+    "privacyMeasures": "Zillow Scraperはどのように私の貴重な不動産データを保護しますか?",
+    "privacyMeasuresAnswer": "私たちはあなたのデータのセキュリティを真剣に受けます。 Zillow Scraperはあなたの検索基準と抽出されたデータを保護するために高度な暗号化を使用します。あなたの情報はすぐに処理され、長期的に保存されません。我々はあなたの不動産戦略の最大の機密性を維持しながら、あなたの不動産分析を強化することにコミットしています。 Zillow Scraperとあなたのデータの旅は安全でプライベートです。",
+    "howToGetStarted": "Zillow Scraper を使用して、不動産分析を過剰に充電するにはどうすればよいですか?",
+    "howToGetStartedAnswer": "Zillow Scraper で始めることは風景です! 単に当社のウェブサイトを訪問し、アカウントにサインアップし、あなたのデータニーズに合ったプランを選択し、あなたは行く準備ができています。 数分で、あなたはプロのように貴重な Zillow データを抽出します。 我々はあなたをスピードにアップするための迅速なチュートリアルを提供し、不動産チームや企業のために、我々はあなたの組織全体で Zillow Scraper の影響を最大化するための特別なパッケージを持っています。",
+    "supportAvailable": "Zillow Scraperのユーザーにはどのようなサポートが提供されていますか?",
+    "supportAvailableAnswer": "私たちは、Zillow Scraperを最大限に活用するために包括的なサポートを提供します。私たちの応答性の高いチームは、24/7の電子メールサポート、迅速なライブチャットのサポート、および広範な知識ベースを提供します。私たちのVIPユーザーのために、私たちはデータエキスパートからの専用のサポートを提供します。あなたが迅速な質問を持っているか、深いガイドが必要かどうか、私たちはあなたのZillow Scraperの経験がスムーズで生産的であることを保証するためにここにいます。",
+    "refundPolicy": "Zillow Scraperが私の不動産分析ニーズを満たさない場合は?",
+    "refundPolicyAnswer": "私たちはZillow Scraperがあなたの不動産分析プロセスを革命させると確信しています。しかし、私たちは60日間の「データ満足保証」を提供します。もしあなたが私たちのツールがZillowのデータを分析し、不動産の機会を特定する能力を向上させないことを発見した場合、我々は完全な返金を提供します。我々はあなたがZillowのデータ抽出のパワーを経験すると、あなたはZillow Scraperなしでどのように成功したのか疑問に思うでしょう!"
+  }
+}

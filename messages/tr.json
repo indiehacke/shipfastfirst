@@ -1,0 +1,183 @@
+{
+  "Hero": {
+    "title": "Güçlü Scraper ile Zillow Verilerini Çıkartın",
+    "description": "Zillow verilerini manuel olarak toplamaktan bıktınız mı? Zillow Scraper, hemen mülkiyet bilgilerini toplamak için gizli silahınızdır. Tek bir tıklama ile kapsamlı verileri Excel'e ihraç edin, hızlı mülkiyet analizini sağlar. Sıkıcı veri girişine veda edin ve bilgilendirilmiş karar vermeye selam verin!",
+    "getButton": "Mülkiyet Araştırmanızı Şimdi Streamline",
+    "imageAlt": "Zillow Scraper karmaşık web verilerini düzgün bir şekilde düzenlenmiş bir Excel çalışma sayfasına dönüştürür"
+  },
+  "Problem": {
+    "title": "Mülkiyet Avantajları: Zillow'un Gizli Veri Hazinesini Bizim Zillow Kayıpımızla Çözün!",
+    "description": "Zillow'un veri labirentiyle hayal kırıklığına uğradınız mı? Bizim Zillow Scraper, anlık, organize mülkiyet anlayışları için anahtarınızdır. Chaotic Zillow listelerini sadece bir tıklama ile etkinleştirilebilir Excel sayfa sayfalarına dönüştürün. Zillow Scraper ile mülkiyet analizinizi aşırı yükleyin ve manuel veri girişi tozuna bırakın!",
+    "step1": "Zillow Scraper için Zillow Hedef Listeleri Seçin",
+    "step2": "Zillow Scraper saniyeler içinde kapsamlı verileri topladığına bakın",
+    "step3": "Zillow Özellik Bilgilerini Excel'e İhracat",
+    "whatIs": {
+      "title": "Bizim Zillow Scraper Nedir?",
+      "description": "Zillow Scraper, Zillow'un bilgi denizinde boğulan emlak profesyonelleri için tasarlanan nihai Zillow veri çıkarma müttefikinizdir."
+    },
+    "howWorks": {
+      "title": "Zillow Scraper Sihirbazımız Nasıl Çalışır?",
+      "description": "Sadece Zillow arama kriterlerinizi girin ve Zillow Scraper'ımız anında Zillow mülkiyet verilerinin bir hazinesi topladığına bakın. temel ayrıntılardan gelişmiş Zillow metriklerine kadar, her şey saniyeler içinde Excel'e ihraç edilir, uzman analiziniz için hazır."
+    },
+    "benefits": {
+      "title": "Neden Mülkiyet Profesyonelleri Bizim Zillow Kaydırıcı Hakkında Öfkeleniyor",
+      "emotional": {
+        "title": "Çabucak Zillow veri toplama keyfi deneyin",
+        "items": [
+          "Zillow tarama saatlerini tek tıkla Zillow Scraper çözümüne dönüştürün",
+          "Zillow Scraper ile müşteri toplantıları ve mülk turları için zaman kazanın",
+          "Her zaman güncel Zillow piyasa bilgileri ile güçlenin",
+          "Zorlu, kapsamlı Zillow veri toplamasının memnuniyetini yaşayın"
+        ]
+      },
+      "cognitive": {
+        "title": "Mülkiyet Analiziniz, Çıkarcığımızdan kapsamlı Zillow Verileri ile Artırılır",
+        "items": [
+          "Zillow Scraper ile çeşitli Zillow veri alanlarına erişim, şunları içerir:",
+          "ZPID (Zillow mülkiyet kimliği)",
+          "Status (Tip ve metin)",
+          "Zillow Zamanı",
+          "Fiyat ve Fiyat Sq Ft",
+          "Sq Ft için Zestimate ve Zestimate",
+          "Düşünüyorum",
+          "Bölge ve boyutu",
+          "yatak odaları ve banyo",
+          "Tam adres (yol, şehir, eyalet, zip kodu)",
+          "Latitude ve Longitude",
+          "Broker Adı",
+          "Zillow mülkiyet durumu",
+          "Satış Tarihi ( Satış Tarihi ve Fiyatı )",
+          "URL ve Görüntüler",
+          "Agent Detayları",
+          "Son Fiyat Değişiklikleri",
+          "Zillow Günleri",
+          "Görüntüleri Görüntüleyin ve Kaydet"
+        ]
+      }
+    },
+    "future": {
+      "title": "Zillow Scraper ile Zillow Veri Kaynağının Geleceği",
+      "description": "Bizim Zillow Scraper sürekli değişen Zillow veri ihtiyaçlarını karşılamak için gelişiyor:",
+      "items": [
+        "Özel gereksinimlerinizi karşılamak için özelleştirilebilir Zillow veri alanları",
+        "Popüler CRM ve analiz araçları ile Zillow Scraper'ın kesintisiz entegrasyonu",
+        "Zillow Scraper'ın ek emlak platformlarını kapsayan genişleme",
+        "Lazer odaklı Zillow veri toplama için gelişmiş filtrasyon",
+        "Toplanan verilerinizden elde edilen Zillow piyasa eğilimi anlayışları"
+      ]
+    },
+    "ethical": {
+      "title": "Zillow Veri Topluluğu Mülkiyet Başarı",
+      "description": "Bizim Zillow Scraper en yüksek etik standartlara uymaktadır:",
+      "items": [
+        "Zillow Scraper'ın Zillow'un hizmet koşullarına ve veri politikalarına tam uyumluluğu",
+        "Zillow mülkiyet listesi ve sahibinin gizliliğine en büyük saygı",
+        "Doğru ve güvenilir Zillow veri çıkışı sağlamak için düzenli güncellemeler",
+        "Zillow Scraper verilerinizi ve gizliliğinizi korumak için sağlam güvenlik önlemleri"
+      ]
+    },
+    "conclusion": {
+      "title": "Zillow Scraper ile bugün mülkiyet analizinizi devrim yapın!",
+      "description": "Zillow'un veri aşırı yükünün sizi geri tutmasına izin vermeyin. bizim Zillow Scraper ZPID, durum, fiyat, Zestimate, mülkiyet detayları, konumu verileri ve daha fazlası dahil olmak üzere Zillow bilgi zenginliğini ihraç eder - hepsi Excel'de düzgün organize edilmiştir. daha hızlı Zillow pazar analizi, bilgilendirilmiş kararlar ve yapılandırılmış, kapsamlı Zillow mülkiyet verilerinin gücü ile gelişmiş bir emlak kariyeri!"
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Çevirilen bazı yazılar"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Espaol",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Zillow's Data Goldmine Hakkında Bilgiler!",
+    "subtitle": "60 günlük para iade garantisi. risksiz Zillow Scraper'ı deneyin!",
+    "promotion": "İlk 100 emlakçı için %40 indirim! (yalnızca 19 yer kaldı)",
+    "popular": "En Popüler",
+    "currency": "Doları",
+    "paymentType": "Fleksibilite: Herhangi bir zamanda iptal etme"
+  },
+  "FAQ": {
+    "title": "FAQ Hakkında",
+    "subtitle": "Zillow Veri Gücünü Açın: Mülkiyet Analizi Süper Şarj Cihazı!",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "Zillow Scraper nedir ve mülkiyet analizimi nasıl devrim yapabilir?",
+    "whatIsZillowScraperAnswer": "Zillow Scraper, Zillow'un büyük verileri ile mücadele eden gayrimenkul profesyonellerinin acı noktalarını ele almak için tasarlanmış güçlü bir araçtır. Tek bir tıklama ile kapsamlı mülkiyet bilgilerini Excel'e ihraç eder, hızlı ve doğru mülkiyet analizini sağlar.",
+    "howDoesZillowScraperWork": "Zillow Scraper, Zillow'un veri labirentini nasıl işlevsel anlayışlara dönüştürür?",
+    "howDoesZillowScraperWorkAnswer": "Zillow Scraper, tüm veri toplama sürecini otomatikleştirerek büyüsünü çalışır. Sadece arama kriterlerinizi girin ve Zillow'un karmaşık listelerini gezinirken, değerli veri noktalarını çıkarırken izleyin. Saniyeler içinde kapsamlı mülkiyet bilgileri ile doldurulmuş bir Excel sayfa sayfanız olacak. Bu anlık veri toplama, gerçekten önemli olan şeye odaklanmanıza izin verir - piyasa eğilimlerini analiz etmek ve bilinçli emlak kararları almak.",
+    "whoIsZillowScraperFor": "Kimler Zillow Scraper'ın veri çıkarma yeteneğinden faydalanabilir?",
+    "whoIsZillowScraperForAnswer": "Zillow Scraper, Zillow veri aşırı yükü ile mücadele eden gayrimenkul endüstrisindeki herkes için bir oyun değiştiricidir. 1) Manuel veri girişinden bıktı olan gayrimenkul ajanları, 2) etkili pazar analizini arayan gayrimenkul yatırımcıları, 3) Zillow'un bilgi denizinde boğulan gayrimenkul analistleri için mükemmel. Eğer Zillow'un veri labirentinden hayal kırıklığına uğradıysanız, Zillow Scraper, çabucak mülkiyet anlayışlarını açmanın anahtarınızdır.",
+    "isZillowScraperDifficult": "Zillow Scraper'ı kullanmak, Zillow'un sonsuz listelerini gezmek kadar karmaşık mı?",
+    "isZillowScraperDifficultAnswer": "Zillow Scraper'ı inanılmaz derecede kullanışlı hale getirmek için tasarladık. Zillow'u kullanabiliyorsanız, araçlarımızı dakikalar içinde ustalaşabilirsiniz. Teknik uzmanlık gerekmez - sadece arama kriterlerinizi girin, bir düğmeye tıklayın ve Zillow Scraper'ın ağır kaldırmasını yapmasına izin verin. Bu kadar basittir, hiç olmadan nasıl başardığınızı merak edeceksiniz. Verileri analiz etmeye odaklanın, toplamayın!",
+    "howEffectiveIsZillowScraper": "Zillow Scraper gerçekten mülkiyet analiz sürecimi değiştirebilir mi?",
+    "howEffectiveIsZillowScraperAnswer": "Kesinlikle! Zillow Scraper, mülkiyet profesyonelleri için gerçek bir oyun değiştiricidir. Kullanıcılar dramatik zaman tasarrufu, geliştirilmiş piyasa anlayışını ve mülkiyet eğilimlerini tespit etme yeteneğinde önemli bir artış bildirir. Zillow'dan veri toplama otomatikleştirerek, müşteri etkileşimleri ve anlaşma oluşturma gibi yüksek değerli görevlere odaklanmanıza izin verir. Zillow Scraper ile, veri aşırı yükünden kısa sürede veri yönlendirilen kararlara geçeceksiniz!",
+    "whatDataDoesItExtract": "Zillow Scraper'dan hangi spesifik verileri alabilirim?",
+    "whatDataDoesItExtractAnswer": "Zillow Scraper, şunları içerir: ZPID, durum türü ve metin, Zillow'da zaman, fiyat, metrekarede fiyat, Zestimate, metrekarede Zestimate, kiralık Zestimate, alan, lot büyüklüğü, yatak odaları, tam adres ( sokak, şehir, devlet, zipcode), genişlik, uzunluk, broker adı, Zillow mülkiyet durumu, satış geçmişi, listelenen URL, mülkiyet görüntüsü, ajan detayları, son fiyat değişiklikleri, günler Zillow'da, görüntü sayısı ve kaydetme sayısı.",
+    "privacyMeasures": "Zillow Scraper değerli emlak verilerimi nasıl korur?",
+    "privacyMeasuresAnswer": "Zillow Scraper, arama kriterlerinizi ve çıkarılan verileri korumak için gelişmiş şifreleme kullanır. Bilgileriniz anında işlenir ve uzun vadede saklanmaz. Zillow Scraper ile veri yolculuğunuz güvenli ve gizli.",
+    "howToGetStarted": "Mülkiyet analizimi aşırı yüklemek için Zillow Scraper'ı nasıl kullanmaya başlayabilirim?",
+    "howToGetStartedAnswer": "Zillow Scraper ile başlamak bir fırtınadır! Sadece web sitemizi ziyaret edin, bir hesap için kaydolun, veri ihtiyaçlarınıza uygun bir plan seçin ve gitmeye hazırsınız. dakikalar içinde, profesyonel olarak değerli Zillow verilerini çıkaracaksınız. sizi hızlandırmak için hızlı bir öğretici sunuyoruz ve emlak ekipleri veya şirketler için, tüm kuruluşunuzda Zillow Scraper'ın etkisini en üst düzeye çıkarmak için özel paketlerimiz var.",
+    "supportAvailable": "Zillow Scraper kullanıcıları için hangi tür destek mevcuttur?",
+    "supportAvailableAnswer": "Zillow Scraper'dan en iyi şekilde yararlanmanızı sağlamak için kapsamlı destek sunuyoruz. Yanıt verici ekibimiz 24/7 e-posta desteği, hızlı canlı sohbet yardımı ve kapsamlı bir bilgi tabanı sunuyoruz. VIP kullanıcılarımız için veri uzmanlarımızdan özel destek sunuyoruz. Hızlı bir sorunuz olsun veya derinlemesine rehberlik ihtiyacınız olsun, Zillow Scraper deneyiminizi pürüzsüz ve verimli hale getirmek için buradayız.",
+    "refundPolicy": "Zillow Scraper mülkiyet analizi gereksinimlerimi karşılamazsa ne olur?",
+    "refundPolicyAnswer": "Zillow Scraper'ın mülkiyet analiz sürecinizi devrimci hale getireceğine inanıyoruz. Bununla birlikte, 60 günlük bir \"Data Memnuniyet Garantisi\" sunuyoruz. Eğer araçımızın Zillow verilerini analiz etme ve mülkiyet fırsatlarını tespit etme yeteneğinizi geliştirmediğini fark ederseniz, tam bir geri ödeme sağlayacağız. Zillow Scraper'ın olmadan nasıl başardığınızı merak edeceksiniz!"
+  }
+}

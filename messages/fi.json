@@ -1,0 +1,183 @@
+{
+  "Hero": {
+    "title": "Poista Zillow-tiedot vaivattomasti tehokkaalla kaavintimme avulla",
+    "description": "Kiinteistöalan ammattilaiset, kyllästyneet manuaalisesti keräämään Zillow-tietoja? Zillow Scraper on salainen aseesi kiinteistötietojen keräämiseksi välittömästi. Vain yhdellä napsautuksella viedä kattavia tietoja Exceliin, mikä mahdollistaa nopean omaisuuden analyysin. Sano hyvästit tylsälle tietojen syöttämiselle ja tervehdys tietoiselle päätöksenteolle!",
+    "getButton": "Streamline omaisuuden tutkimus nyt",
+    "imageAlt": "Zillow Scraper muuttaa monimutkaisia web-tietoja siististi organisoiduksi Excel-laskentataulukoksi"
+  },
+  "Problem": {
+    "title": "Kiinteistön edut: Avaa Zillowin piilotettu tietovarallisuus meidän Zillow Scraperilla!",
+    "description": "Oletko turhautunut Zillow-tietolauteen? Zillow Scraper on avain välittömään, organisoituun omaisuuden näkemykseen. Muunna kaoottiset Zillow-luettelot toimiviksi Excel-laskentataulukoiksi vain yhdellä napsautuksella. On aika ladata omaisuusanalyysi Zillow Scraperilla ja jätä manuaalinen tietojen syöttö pölyyn!",
+    "step1": "Valitse Zillow Target Listings varten Zillow Scraper",
+    "step2": "Katso, miten Zillow Scraper kerää kattavia tietoja sekunneissa",
+    "step3": "Export a Wealth of Zillow Property Information to Excel",
+    "whatIs": {
+      "title": "Mikä on meidän Zillow Scraper?",
+      "description": "Meidän Zillow Scraper on lopullinen Zillow tiedonlouhinta liittolainen, joka on suunniteltu kiinteistöalan ammattilaisille, jotka hukkuvat Zillow: n tiedon meressä."
+    },
+    "howWorks": {
+      "title": "Miten meidän Zillow Scraper toimii sen taikaa?",
+      "description": "Kirjoita vain Zillow-hakukriteerit ja katso, kun Zillow Scraper kerää välittömästi Zillow-ominaisuustietojen aarteen."
+    },
+    "benefits": {
+      "title": "Miksi kiinteistöalan ammattilaiset raivoavat meidän Zillow Scraperista",
+      "emotional": {
+        "title": "Koe Zillow-tietojen keräämisen ilo vaivattomasti",
+        "items": [
+          "Käännä tunteja Zillow-selausta yhdellä napsautuksella Zillow Scraper -ratkaisuun",
+          "Palauta aikaa asiakastilaisuuksiin ja kiinteistöjen kierroksille Zillow Scraperilla",
+          "Tunne itsesi vahvistetuksi aina ajan tasalla olevilla Zillow-markkinatiedoilla",
+          "Nauti vaivattomasta, kattavasta Zillow-tietojen keräämisestä"
+        ]
+      },
+      "cognitive": {
+        "title": "Omaisuusanalyysi saa vauhtia kattavilla Zillow-tiedoilla meidän kaavin",
+        "items": [
+          "Saat käyttöönsä laajan valikoiman Zillow-tietokenttiä Zillow Scraperin avulla, mukaan lukien:",
+          "ZPID eli Zillow Property ID",
+          "Tilanne (tyyppi ja teksti)",
+          "Aikaa Zillow",
+          "Hinta ja hinta per Sq Ft",
+          "Vinkkejä ja vinkkejä Sq Ft",
+          "Rentouttavat arvot",
+          "Alue ja koko",
+          "Makuuhuoneet ja kylpyhuoneet",
+          "Täydellinen osoite (katu, kaupunki, osavaltio, zipcode)",
+          "Latitude ja longitude",
+          "Brokerin nimi",
+          "Zillow omistusoikeus",
+          "Myynnin historia (myynnin päivämäärä ja hinta)",
+          "Luettelo URL-osoitteista ja kuvista",
+          "Agentti yksityiskohdat",
+          "Viimeaikaiset hinnanmuutokset",
+          "Päivät Zillowissa",
+          "Katso ja tallenna laskelmat"
+        ]
+      }
+    },
+    "future": {
+      "title": "Zillow-tietojen uuttamisen tulevaisuus meidän Zillow Scraperilla",
+      "description": "Zillow Scraper kehittyy vastaamaan jatkuvasti muuttuviin Zillow-tietotarpeisiisiisi:",
+      "items": [
+        "Mukautettavat Zillow-tietokentät, jotka vastaavat erityisvaatimuksiasi",
+        "Zillow Scraperin saumaton integrointi suosittuihin CRM- ja analyysityökaluihin",
+        "Zillow Scraper laajenee kattamaan ylimääräisiä kiinteistöalustoja",
+        "Kehittynyt suodatus laser-suuntautuneeseen Zillow-tietojen keräämiseen",
+        "AI-pohjaiset Zillow-markkinoiden suuntaukset kerätyistä tiedoista"
+      ]
+    },
+    "ethical": {
+      "title": "Vastuullinen Zillow-tietojen kerääminen kiinteistöjen menestykseen",
+      "description": "Meidän Zillow Scraper noudattaa korkeimpia eettisiä standardeja:",
+      "items": [
+        "Zillow Scraperin täydellinen noudattaminen Zillowin käyttöehtojen ja tietosuojakäytäntöjen mukaisesti",
+        "Suurin kunnioitus Zillow-omaisuusluetteloon ja omistajan yksityisyyteen",
+        "Säännölliset päivitykset, joilla varmistetaan Zillow-tietojen tarkka ja luotettava uuttaminen",
+        "Vahvat turvallisuustoimenpiteet Zillow Scraper -tietojen ja yksityisyyden suojaamiseksi"
+      ]
+    },
+    "conclusion": {
+      "title": "Vallankumous omaisuuden analysointi tänään meidän Zillow kaavin!",
+      "description": "Meidän Zillow Scraper vie runsaasti Zillow-tietoja, mukaan lukien ZPID, tila, hinta, Zestimate, kiinteistötiedot, sijaintitiedot ja paljon muuta – kaikki siististi järjestetty Excelissä."
+    }
+  },
+  "OtherComponent": {
+    "someKey": "Jotkut käännetyt tekstit"
+  },
+  "LanguageSwitcher": {
+    "language": {
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "es": "Espaol",
+      "it": "Italiano",
+      "pt": "Português",
+      "nl": "Nederlands",
+      "pl": "Polski",
+      "ru": "Русский",
+      "ja": "日本語",
+      "ko": "한국어",
+      "zh": "中文",
+      "ar": "العربية",
+      "hi": "हिन्दी",
+      "tr": "Türkçe",
+      "sv": "Svenska",
+      "da": "Dansk",
+      "fi": "Suomi"
+    }
+  },
+  "Pricing": {
+    "title": "Avaa Zillow’s Data Goldmine!",
+    "subtitle": "60 päivän rahat takaisin takuu. Kokeile Zillow Scraper riskitön!",
+    "promotion": "40% alennus ensimmäisille 100 kiinteistöalan ammattilaiselle! (vain 19 paikkaa jäljellä)",
+    "popular": "Suosituin",
+    "currency": "Yhdysvallat USD",
+    "paymentType": "Joustava tilaus. Peruuta milloin tahansa."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "subtitle": "Avaa Zillow-tietojen voima: Kiinteistöanalyysi Supercharger!",
+    "faqList": [
+      {
+        "question": "whatIsZillowScraper",
+        "answer": "whatIsZillowScraperAnswer"
+      },
+      {
+        "question": "howDoesZillowScraperWork",
+        "answer": "howDoesZillowScraperWorkAnswer"
+      },
+      {
+        "question": "whoIsZillowScraperFor",
+        "answer": "whoIsZillowScraperForAnswer"
+      },
+      {
+        "question": "isZillowScraperDifficult",
+        "answer": "isZillowScraperDifficultAnswer"
+      },
+      {
+        "question": "howEffectiveIsZillowScraper",
+        "answer": "howEffectiveIsZillowScraperAnswer"
+      },
+      {
+        "question": "whatDataDoesItExtract",
+        "answer": "whatDataDoesItExtractAnswer"
+      },
+      {
+        "question": "privacyMeasures",
+        "answer": "privacyMeasuresAnswer"
+      },
+      {
+        "question": "howToGetStarted",
+        "answer": "howToGetStartedAnswer"
+      },
+      {
+        "question": "supportAvailable",
+        "answer": "supportAvailableAnswer"
+      },
+      {
+        "question": "refundPolicy",
+        "answer": "refundPolicyAnswer"
+      }
+    ],
+    "whatIsZillowScraper": "Mikä on Zillow Scraper ja miten se voi mullistaa omaisuuden analyysin?",
+    "whatIsZillowScraperAnswer": "Zillow Scraper on lopullinen ratkaisu vaivattomalle Zillow-tietojen uuttamiselle. Se on tehokas työkalu, joka on suunniteltu käsittelemään Zillowin valtavien tietojen kanssa kamppailevien kiinteistöalan ammattilaisten kipupisteitä. Vain yhdellä napsautuksella se vie kattavat omaisuustiedot Exceliin, mikä mahdollistaa nopean ja tarkan omaisuuden analysoinnin. Sano hyvästit manuaaliselle tietojen syöttämiselle ja terveisiä data-pohjaiselle menestykselle Zillow Scraperin kanssa!",
+    "howDoesZillowScraperWork": "Miten Zillow Scraper muuttaa Zillow: n tietolagion toimiviksi oivalluksiksi?",
+    "howDoesZillowScraperWorkAnswer": "Zillow Scraper tekee taikuutensa automatisoimalla koko tietojenkeruuprosessi. Syötä vain hakukriteerisi ja katsele, kun se navigoi Zillowin monimutkaisiin luetteloihin ja poimii arvokkaita tietopisteitä. Sekunneissa sinulla on siisti järjestetty Excel-laskentataulukko, joka on täynnä kattavia kiinteistötietoja. Tämä välitön tiedonkeruu antaa sinulle mahdollisuuden keskittyä siihen, mikä todella on tärkeää - analysoida markkinoiden suuntauksia ja tehdä tietoon perustuvia kiinteistöpäätöksiä.",
+    "whoIsZillowScraperFor": "Kuka voi hyötyä Zillow Scraperin tiedonlouhinnasta?",
+    "whoIsZillowScraperForAnswer": "Zillow Scraper on pelimuuttaja kaikille kiinteistöalalla kamppaileville Zillow-tietojen ylikuormituksesta. Se sopii täydellisesti: 1) kiinteistönvälittäjille, jotka ovat kyllästyneet manuaaliseen tietojen syöttämiseen, 2) kiinteistösijoittajille, jotka etsivät tehokasta markkinanalyysia, 3) kiinteistöanalyytikoille, jotka hukkuvat Zillowin tiedonmeressä.",
+    "isZillowScraperDifficult": "Onko Zillow Scraperin käyttäminen yhtä monimutkaista kuin Zillowin loputtomien luetteloiden navigointi?",
+    "isZillowScraperDifficultAnswer": "Ei ollenkaan! Olemme suunnitelleet Zillow Scraperin uskomattoman käyttäjäystävälliseksi. Jos voit käyttää Zillowia, voit hallita työkaluamme muutamassa minuutissa. Ei tarvita teknistä asiantuntemusta - kirjoita vain hakukriteerit, napsauta painiketta ja anna Zillow Scraperin tehdä raskaan noston. Se on niin yksinkertainen, että ihmettelet, miten olet koskaan onnistunut ilman sitä. Keskity analysoimaan tietoja, äläkä kerää sitä!",
+    "howEffectiveIsZillowScraper": "Voiko Zillow Scraper todella muuttaa omaisuuden analysointiprosessia?",
+    "howEffectiveIsZillowScraperAnswer": "Ehdottomasti! Zillow Scraper on todellinen peli-muuttaja kiinteistöalan ammattilaisille. Käyttäjät raportoivat dramaattisesta ajansäästöstä, parannetuista markkinoiden oivalluksista ja merkittävästä lisäyksestä kyvystään havaita kiinteistötrendejä. Automaattisesti keräämällä tietoja Zillowista, se vapauttaa sinut keskittymään korkean arvon tehtäviin, kuten asiakkaan vuorovaikutukseen ja sopimusten tekemiseen.",
+    "whatDataDoesItExtract": "Mitä erityisiä tietoja voin odottaa Zillow Scraperista?",
+    "whatDataDoesItExtractAnswer": "Zillow Scraper poimii kattavan joukon tietopisteitä, mukaan lukien: ZPID, tilatyyppi ja teksti, aika Zillowissa, hinta, hinta neliöjalkaa kohti, Zestimate, Zestimate neliöjalkaa kohti, vuokra Zestimate, alue, erän koko, makuuhuoneet, täysi osoite (katu, kaupunki, valtio, postikoodi), leveys, pituus, välittäjän nimi, Zillow omistusoikeus, myynnin historia, luettelo URL, omaisuuden kuva, asiakkaan tiedot, viimeaikaiset hinnanmuutokset, päivät Zillowissa, näkymän laskeminen ja tallentaminen.",
+    "privacyMeasures": "Miten Zillow Scraper suojaa arvokkaita kiinteistötietojani?",
+    "privacyMeasuresAnswer": "Otamme tietoturvasi vakavasti. Zillow Scraper käyttää kehittynyttä salausta suojaamaan hakukriteereitäsi ja poistettuja tietoja. Tietosi käsitellään välittömästi ja niitä ei koskaan säilytetä pitkällä aikavälillä. Olemme sitoutuneet valtuuttamaan omaisuuden analysointiin säilyttäen samalla kiinteistöstrategioiden suurimman luottamuksellisuuden. Ole varma, datasi matka Zillow Scraperin kanssa on turvallinen ja yksityinen.",
+    "howToGetStarted": "Miten voin aloittaa Zillow Scraperin käyttämisen omaisuuteni analyysin ylikuormittamiseksi?",
+    "howToGetStartedAnswer": "Aloittaminen Zillow Scraper on tuuli! Käy vain verkkosivuillamme, rekisteröidy tilille, valitse suunnitelma, joka sopii tietotarpeisiisiisi, ja olet valmis menemään. Muutamassa minuutissa voit poimia arvokkaita Zillow-tietoja ammattilaisena. Tarjoamme nopean opetusohjelman, joka saa sinut nopeuteen, ja kiinteistöjoukkueille tai yrityksille meillä on erityisiä paketteja Zillow Scraperin vaikutuksen maksimoimiseksi koko organisaatiossasi.",
+    "supportAvailable": "Millaista tukea on saatavilla Zillow Scraper -käyttäjille?",
+    "supportAvailableAnswer": "Tarjoamme kattavaa tukea varmistaaksemme, että saat parhaan hyödyn Zillow Scraperista. Vastaava tiimimme tarjoaa 24/7 sähköpostin tukea, nopeaa live-chat-apua ja laajan tietopohjan. VIP-käyttäjillemme tarjoamme omistautunutta tukea tietojen asiantuntijoiltamme. Olitpa sinulla nopea kysymys tai tarvitset syvällistä ohjausta, olemme täällä varmistaaksemme, että Zillow Scraper -kokemuksesi on sileä ja tuottava.",
+    "refundPolicy": "Entä jos Zillow Scraper ei vastaa omaisuuden analysointitarpeitani?",
+    "refundPolicyAnswer": "Olemme vakuuttuneita siitä, että Zillow Scraper mullistaa omaisuuden analysointiprosessin. Tarjoamme kuitenkin 60 päivän \"tietojen tyytyväisyystakuu\". Jos huomaat, että työkalumme ei paranna kykyäsi analysoida Zillow-tietoja ja löytää kiinteistöjä, tarjoamme täyden hyvityksen. Uskomme, että kun koet Zillow-tietojen uuttamisen voiman vaivattomasti, ihmettelet, miten olet koskaan onnistunut ilman Zillow Scraperia!"
+  }
+}
